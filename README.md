@@ -1,2 +1,2 @@
-# BattleShipFV
+# BattleShip
 Proyecto BattleShip POO2
